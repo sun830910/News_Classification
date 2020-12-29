@@ -70,3 +70,15 @@ F1_Score = 0.7415
 ### 实验结果
 
 F1_Score = 0.8722
+
+## 3. FastText
+
+### 代码路径
+
+3_FastText.py
+
+### 实验结果
+
+lr=0.1、wordNgrams=3、epoch=50时，F1_Score=0.7298
+
+lr=1、wordNgrams=3、epoch=50时，F1_Score=0.8275
