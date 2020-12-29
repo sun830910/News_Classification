@@ -61,3 +61,12 @@
 
 F1_Score = 0.7415
 
+## 2. TF-IDF + 线性模型
+
+### 代码路径
+
+2_TFIDF_RidgeClassifier.py
+
+### 实验结果
+
+F1_Score = 0.8722
