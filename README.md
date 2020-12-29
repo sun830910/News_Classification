@@ -82,3 +82,20 @@ F1_Score = 0.8722
 lr=0.1、wordNgrams=3、epoch=50时，F1_Score=0.7298
 
 lr=1、wordNgrams=3、epoch=50时，F1_Score=0.8275
+
+## 4. 如何用gensim训练词向量
+
+### 代码路径
+
+4_Word2Vec.py
+
+## 5. TextRNN
+
+### 代码路径
+
+5_TextRNN.py
+
+### 实验结果
+
+
+
