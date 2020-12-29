@@ -97,5 +97,9 @@ lr=1、wordNgrams=3、epoch=50时，F1_Score=0.8275
 
 ### 实验结果
 
+## 6. TextCNN
 
+### 代码路径
+
+6_TextCNN.py
 
