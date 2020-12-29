@@ -32,7 +32,7 @@
 
 ## 代码路径
 
-data_analysis.py
+0_Data_Analysis.py
 
 ## 介绍
 
@@ -48,3 +48,16 @@ data_analysis.py
 
 4. 样本偏长，需要做截断。
 5. 类别不均衡会影响模型的精度。
+
+# 方法
+
+## 1. 词袋模型 + 线性模型
+
+### 代码路径
+
+1_Count_Vectors_RidgeClassifier.py
+
+### 实验结果
+
+F1_Score = 0.7415
+
