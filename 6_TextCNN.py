@@ -583,7 +583,7 @@ import time
 from sklearn.metrics import classification_report
 
 clip = 5.0
-epochs = 1
+epochs = 20
 early_stops = 3
 log_interval = 50
 
