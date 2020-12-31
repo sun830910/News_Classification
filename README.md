@@ -107,9 +107,3 @@ lr=1、wordNgrams=3、epoch=50时，F1_Score=0.8275
 
 0.8562
 
-## 7. xgb
-
-### 代码路径
-
-7_xgb.py
-
